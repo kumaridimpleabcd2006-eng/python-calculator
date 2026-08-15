@@ -39,7 +39,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Pass students
 
   
-12. * Employee Management System*:  A Python program to manage employee records using dictionaries.
+12. * Employee Management System*:  A Python program to manage employee record using dictionaries.
 # Features #
 - Add Employee
 - View Employees
